@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "videoId": "gsGjcLVI6X4",
+  "meta": {
+    "track": "トリノコシティ",
+    "artist": "月見ヤチヨ",
+    "generatedAt": "2025-11-26T12:56:02.313399Z"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "text": "0と 1が 交差する 地点",
+      "startTimeMs": 27220,
+      "endTimeMs": 17724,
+      "chars": [
+        {
+          "i": 0,
+          "c": "0",
+          "t": 17724
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "間違い だらけの　 コミュニケーション",
+      "startTimeMs": 29350,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 2,
+      "text": "アナタの 名前は 何ですか？",
+      "startTimeMs": 32710,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 3,
+      "text": "10文字以内 で 答エヨ",
+      "startTimeMs": 36500,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 4,
+      "text": "過去と 未来が 交差する 地点",
+      "startTimeMs": 39960,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 5,
+      "text": "行く宛を 失った 現在地",
+      "startTimeMs": 43680,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 6,
+      "text": "アナタ は どうして　 生きているの？",
+      "startTimeMs": 47070,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 7,
+      "text": "100文字以内 で 答エヨ",
+      "startTimeMs": 51040,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 8,
+      "text": "過去最高速の　 夜が明ける",
+      "startTimeMs": 57890,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 9,
+      "text": "バランス 取ることも　 できないまま",
+      "startTimeMs": 65000,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 10,
+      "text": "自分だけ どこか　 取り残された",
+      "startTimeMs": 68340,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 11,
+      "text": "音の無い 世界 　造られた 世界",
+      "startTimeMs": 72040,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 12,
+      "text": "傷(いた)んだ 果実を　 捨てるだけ なら",
+      "startTimeMs": 75470,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 13,
+      "text": "2人も いらない　 1人で 出来る から",
+      "startTimeMs": 93160,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 14,
+      "text": "昼と 夜が 交差する 地点",
+      "startTimeMs": 96950,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 15,
+      "text": "誰かに 会いたくて　 会えなくて",
+      "startTimeMs": 100340,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 16,
+      "text": "ワタシの 名前は 何ですか？",
+      "startTimeMs": 103850,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 17,
+      "text": "10文字以内 で 教えて",
+      "startTimeMs": 107480,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 18,
+      "text": "嘘と 本当が 交差する 地点",
+      "startTimeMs": 110900,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 19,
+      "text": "呼吸 が 止まりそうな 閉塞感",
+      "startTimeMs": 114500,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 20,
+      "text": "ワタシ は どうして　 生きているの？",
+      "startTimeMs": 117840,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 21,
+      "text": "100文字以内 で 教えて",
+      "startTimeMs": 121650,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 22,
+      "text": "好き 　嫌い　 好き　 嫌い 　の繰り返しで",
+      "startTimeMs": 128650,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 23,
+      "text": "疲れきった 愛は　 もう いらない",
+      "startTimeMs": 135650,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 24,
+      "text": "時間だけ いつも通り 過ぎていく",
+      "startTimeMs": 139060,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 25,
+      "text": "1秒ごと に　 崩れていく 世界",
+      "startTimeMs": 142870,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 26,
+      "text": "歪んだ 景色に　 塗りつぶされた",
+      "startTimeMs": 146540,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 27,
+      "text": "真実(答え) は いらない　 偽りで いいの",
+      "startTimeMs": 150150,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 28,
+      "text": "自分だけ どこか　 取り残された",
+      "startTimeMs": 153490,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 29,
+      "text": "色のない 世界　 夢に見た 世界",
+      "startTimeMs": 157030,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 30,
+      "text": "傷んだ 果実を　 捨てること すら",
+      "startTimeMs": 162910,
+      "endTimeMs": null,
+      "chars": []
+    },
+    {
+      "index": 31,
+      "text": "1人じゃ出来ない　 傍にいて ほしくて",
+      "startTimeMs": 204880,
+      "endTimeMs": null,
+      "chars": []
+    }
+  ]
+}
